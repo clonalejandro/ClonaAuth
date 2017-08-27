@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">ClonaAuth</string>
+    <string name="title">clonaSec</string>
+    <string name="login_user">Username</string>
+    <string name="login_pwd">xxx</string>
+    <string name="login_button">Log In</string>
+    <string name="login_helper">You don´t have a license?</string>
+
+
+    <string name="error_email">Your email is incorrectly</string>
+    <string name="error_license">Your license is incorrectly</string>
+    <string name="error_form">The form have an error in this fields</string>
+
 </resources>
